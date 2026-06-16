@@ -1,6 +1,6 @@
 # 🔐 Password Manager
 
-A simple command-line Password Manager built with Python that allows users to securely store and retrieve passwords using Fernet encryption from the Cryptography library.
+A  command-line Password Manager built with Python that allows users to securely store and retrieve passwords using Fernet encryption from the Cryptography library.
 
 ## 🚀 Features
 
@@ -8,6 +8,8 @@ A simple command-line Password Manager built with Python that allows users to se
 * Store passwords in encrypted format
 * View saved passwords by decrypting them
 * Simple and easy-to-use command-line interface
+
+  
 ## How Your Password Manager Works — Step by Step
 
 **1. Master password entry**
